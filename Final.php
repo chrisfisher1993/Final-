@@ -4,10 +4,10 @@
     */
 
    // 0, 1 & 2. Initialize connect and use db
-   require_once( "Ch11/login.php" );
+   require_once( "login.php" );
 
    // for HTML table creation
-   require_once( "Ch11/table.php" );
+   require_once( "table.php" );
 
    // initialize strings
    $likeClause = "";
